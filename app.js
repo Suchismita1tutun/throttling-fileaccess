@@ -29,6 +29,7 @@ async function writetoAllFiles() {
 
 async function write() {
     await writetoAllFiles();
+    // perform further operations
 }
 
 write();
